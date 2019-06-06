@@ -54,7 +54,7 @@ console.log('Application Name: ' + config.get('name'));
 
 //When using debugging, you have to set the environment variable to the namespace for that particular debugger....export DEBUG=app:startup etc. or multiple DEBUG=app:startup,app:db OR use wild card DEBUG=app:*
 
-
+///////
 
 /////////////////////
 
